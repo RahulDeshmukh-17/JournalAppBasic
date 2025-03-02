@@ -12,6 +12,7 @@ public class JournalEntry {
     @Id
     private String id;
     private String title;
+
     private String content;
 
     private Date date;
